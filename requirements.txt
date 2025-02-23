@@ -1,0 +1,4 @@
+requests
+csv
+concurrent.futures
+beautifulsoup4
